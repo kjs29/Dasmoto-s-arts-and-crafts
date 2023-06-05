@@ -1,2 +1,3 @@
-# Dasmoto-s-arts-and-crafts
+# Dasmotos-arts-and-crafts
+
 Codecademy full-stack project
